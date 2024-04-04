@@ -1,0 +1,169 @@
+{
+  "version": "3.22.17236.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "66zUjssdJyO",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5VE5yShX2Po",
+      "title": "Results Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6P5Kgyd8KjZ",
+      "title": "The customer service standard is a voluntary standard. Each business or organization can decide whether or not to put it into practice.",
+      "scene_index": "Q1.1"
+    },
+    {
+      "id": "6BfxcgjK2Kf",
+      "title": "The term \"disability\" only applies to people who use wheelchairs.",
+      "scene_index": "Q1.2"
+    },
+    {
+      "id": "6e95i3CRTpf",
+      "title": "Your organization must accept feedback \nabout the way it provides goods or services to people with disabilities.",
+      "scene_index": "Q1.3"
+    },
+    {
+      "id": "6a06vGmEBrh",
+      "title": "You should not ask your customer to repeat himself if you don't understand him the first time. lt might offend him.",
+      "scene_index": "Q1.4"
+    },
+    {
+      "id": "62t8uZnkMIr",
+      "title": "lf a person has vision loss they cannot see anything.",
+      "scene_index": "Q1.5"
+    },
+    {
+      "id": "5UnlnlGTS6I",
+      "title": "It's helpful for someone who uses a hearing aid if you reduce background noise.",
+      "scene_index": "Q1.6"
+    },
+    {
+      "id": "6MnzSwJwuQj",
+      "title": "You should always speak directly to your customer, not to their support person or companion.",
+      "scene_index": "Q1.7"
+    },
+    {
+      "id": "6BigNZgg1Ta",
+      "title": "lf your customer uses a manual wheelchair, feel free to push them around the library.",
+      "scene_index": "Q1.8"
+    },
+    {
+      "id": "6HPSB87q3OZ",
+      "title": "You can always tell when someone has a disability.",
+      "scene_index": "Q1.9"
+    },
+    {
+      "id": "5pxrXBn03IT",
+      "title": "Assistive devices enable a person with a disability to do everyday tasks and activities.",
+      "scene_index": "Q1.10"
+    },
+    {
+      "id": "6IPu3sKgJ7a",
+      "title": "Your organization must allow people with disabilities who use a support person to bring their support person with them while accessing goods or  services on parts of the premises that are open to the public.",
+      "scene_index": "Q1.11"
+    },
+    {
+      "id": "6olu3PFBrHq",
+      "title": "Service animals should be treated as pets.",
+      "scene_index": "Q1.12"
+    },
+    {
+      "id": "6Igp5NUGgW0",
+      "title": "Which of the following statements about \nthe Accessibility for Ontarians with Disabilities Act, 2005 is false?",
+      "scene_index": "Q1.13"
+    },
+    {
+      "id": "6Hl0R2dmBRK",
+      "title": "What should you do if you are unsure if a customer with a disability needs help?",
+      "scene_index": "Q1.14"
+    },
+    {
+      "id": "5aFGxMeZrkF",
+      "title": "The AODA standards apply to:",
+      "scene_index": "Q1.15"
+    },
+    {
+      "id": "5m4gFMjZNJC",
+      "title": "Which of the following is a requirement of \nthe Customer Service Standard? Choose the best response.",
+      "scene_index": "Q1.16"
+    },
+    {
+      "id": "6qUmcdOj0YB",
+      "title": "The goal of the Ontario Human Rights Code \n(the Code) is to:",
+      "scene_index": "Q1.17"
+    },
+    {
+      "id": "5emde694EgE",
+      "title": "The Code and the AODA work together in \nthe following ways:",
+      "scene_index": "Q1.18"
+    },
+    {
+      "id": "6QSAbRPJvgE",
+      "title": "In which situations below would an \nemployer be required to accommodate an employee?",
+      "scene_index": "Q1.19"
+    },
+    {
+      "id": "63ONcOSit5b",
+      "title": "Undue hardship is the legal limit of the duty \nto accommodate. It refers to situations where severe negative effects outweigh the benefit of providing accommodation. What are the three factors used to determine undue hardship?",
+      "scene_index": "Q1.20"
+    },
+    {
+      "id": "6JSkT59HvWg",
+      "title": "In the Code, disabilities can include \n(check all that apply):",
+      "scene_index": "Q1.21"
+    },
+    {
+      "id": "6W6eg3uuZYt",
+      "title": "When a person requests an accommodation, \nthe employer, landlord or service provider must (check all that apply):",
+      "scene_index": "Q1.22"
+    },
+    {
+      "id": "67vjp1S3fdQ",
+      "title": "If you need an accommodation, \nwhat should you do? Check all that apply.",
+      "scene_index": "Q1.23"
+    },
+    {
+      "id": "6ox2wCoq7bZ",
+      "title": "Organizations can choose the same accommodation for people with same types of disabilities, so what works for one person will work for other people, too.",
+      "scene_index": "Q1.24"
+    },
+    {
+      "id": "5YUPOfmoUth",
+      "title": "Can individuals file accessibility complaints under the AODA?",
+      "scene_index": "Q1.25"
+    },
+    {
+      "id": "5oGjFzo5tgj",
+      "title": "“Ableism” is a tendency to see people with disabilities as less worthy, underestimating their potential, or excluding them from decisions that affect them.",
+      "scene_index": "Q1.26"
+    },
+    {
+      "id": "6SHZ0TEO0hx",
+      "title": "Since our focus is public service, customer service is the only accessibility standard that applies to Hamilton Public Library.",
+      "scene_index": "Q1.27"
+    },
+    {
+      "id": "5akMR6Rrb6V",
+      "title": "Find the best match for each law:",
+      "scene_index": "Q1.28"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

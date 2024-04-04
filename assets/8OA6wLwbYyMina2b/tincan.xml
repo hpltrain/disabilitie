@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5pRrRkZxXju_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Knowledge Test 2018</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6SePX9EQZrC" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Knowledge Test 2018</name>
+			<description lang="und">Knowledge Test 2018</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/66zUjssdJyO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5VE5yShX2Po" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6P5Kgyd8KjZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The customer service standard is a voluntary standard. Each business or organization can decide whether or not to put it into practice.</name>
+			<description lang="und">The customer service standard is a voluntary standard. Each business or organization can decide whether or not to put it into practice.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6P5Kgyd8KjZ/6YWDFS8H4r4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">The customer service standard is a voluntary standard. Each business or organization can decide whether or not to put it into practice.</name>
+			<description lang="und">The customer service standard is a voluntary standard. Each business or organization can decide whether or not to put it into practice.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6ldgXndHomT</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6Yr8a9mEht1</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6ldgXndHomT</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6BfxcgjK2Kf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The term "disability" only applies to people who use wheelchairs.</name>
+			<description lang="und">The term "disability" only applies to people who use wheelchairs.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6BfxcgjK2Kf/5k7Op9wJO1Z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">The term "disability" only applies to people who use wheelchairs.</name>
+			<description lang="und">The term "disability" only applies to people who use wheelchairs.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6Mhq63i8T8c</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5oVrJDH3TKE</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6Mhq63i8T8c</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6e95i3CRTpf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Your organization must accept feedback 
+about the way it provides goods or services to people with disabilities.</name>
+			<description lang="und">Your organization must accept feedback 
+about the way it provides goods or services to people with disabilities.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6e95i3CRTpf/5wf2ouXBQJD" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Your organization must accept feedback 
+about the way it provides goods or services to people with disabilities.</name>
+			<description lang="und">Your organization must accept feedback 
+about the way it provides goods or services to people with disabilities.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6RrNCchyqyk</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6RrNCchyqyk</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5fvO27y5Ax7</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6a06vGmEBrh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">You should not ask your customer to repeat himself if you don't understand him the first time. lt might offend him.</name>
+			<description lang="und">You should not ask your customer to repeat himself if you don't understand him the first time. lt might offend him.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6a06vGmEBrh/6BFoJBrVMl0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">You should not ask your customer to repeat himself if you don't understand him the first time. lt might offend him.</name>
+			<description lang="und">You should not ask your customer to repeat himself if you don't understand him the first time. lt might offend him.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5zxXhc96iJn</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_68knutzMJw7</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5zxXhc96iJn</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/62t8uZnkMIr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">lf a person has vision loss they cannot see anything.</name>
+			<description lang="und">lf a person has vision loss they cannot see anything.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/62t8uZnkMIr/5g68YxH95gl" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">lf a person has vision loss they cannot see anything.</name>
+			<description lang="und">lf a person has vision loss they cannot see anything.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6Y8IxbhSdCc</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5u7CzeqaCiA</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6Y8IxbhSdCc</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5UnlnlGTS6I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">It's helpful for someone who uses a hearing aid if you reduce background noise.</name>
+			<description lang="und">It's helpful for someone who uses a hearing aid if you reduce background noise.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5UnlnlGTS6I/5uu4Sv3zZxP" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">It's helpful for someone who uses a hearing aid if you reduce background noise.</name>
+			<description lang="und">It's helpful for someone who uses a hearing aid if you reduce background noise.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_67vbTrNhk2Q</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_67vbTrNhk2Q</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_66v4kepkg8Q</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6MnzSwJwuQj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">You should always speak directly to your customer, not to their support person or companion.</name>
+			<description lang="und">You should always speak directly to your customer, not to their support person or companion.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6MnzSwJwuQj/6SB3yJ4MDl3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">You should always speak directly to your customer, not to their support person or companion.</name>
+			<description lang="und">You should always speak directly to your customer, not to their support person or companion.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5fjXXJjS1mr</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5fjXXJjS1mr</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6UfcepYJdgY</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6BigNZgg1Ta" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">lf your customer uses a manual wheelchair, feel free to push them around the library.</name>
+			<description lang="und">lf your customer uses a manual wheelchair, feel free to push them around the library.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6BigNZgg1Ta/6kVtn3DLw5l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">lf your customer uses a manual wheelchair, feel free to push them around the library.</name>
+			<description lang="und">lf your customer uses a manual wheelchair, feel free to push them around the library.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6lqdESvol6s</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6VyUCqeOFw7</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6lqdESvol6s</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6HPSB87q3OZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">You can always tell when someone has a disability.</name>
+			<description lang="und">You can always tell when someone has a disability.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6HPSB87q3OZ/5rboV8uB82w" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">You can always tell when someone has a disability.</name>
+			<description lang="und">You can always tell when someone has a disability.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5v80LYdH6rq</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6hxnspTpfL5</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5v80LYdH6rq</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5pxrXBn03IT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assistive devices enable a person with a disability to do everyday tasks and activities.</name>
+			<description lang="und">Assistive devices enable a person with a disability to do everyday tasks and activities.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5pxrXBn03IT/5XgOfbxWD6a" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Assistive devices enable a person with a disability to do everyday tasks and activities.</name>
+			<description lang="und">Assistive devices enable a person with a disability to do everyday tasks and activities.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6YoYmjT7sxc</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6YoYmjT7sxc</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6K9WS75MUo7</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6IPu3sKgJ7a" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Your organization must allow people with disabilities who use a support person to bring their support person with them while accessing goods or  services on parts of the premises that are open to the public.</name>
+			<description lang="und">Your organization must allow people with disabilities who use a support person to bring their support person with them while accessing goods or  services on parts of the premises that are open to the public.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6IPu3sKgJ7a/6G8PTPRWbNi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Your organization must allow people with disabilities who use a support person to bring their support person with them while accessing goods or  services on parts of the premises that are open to the public.</name>
+			<description lang="und">Your organization must allow people with disabilities who use a support person to bring their support person with them while accessing goods or  services on parts of the premises that are open to the public.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5ehSyB7JfO5</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5ehSyB7JfO5</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5frvh8QYsqR</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6olu3PFBrHq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Service animals should be treated as pets.</name>
+			<description lang="und">Service animals should be treated as pets.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6olu3PFBrHq/6dojOVtwWLb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Service animals should be treated as pets.</name>
+			<description lang="und">Service animals should be treated as pets.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5rG39qp57xW</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6cuQW7a17cG</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5rG39qp57xW</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6Igp5NUGgW0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which of the following statements about 
+the Accessibility for Ontarians with Disabilities Act, 2005 is false?</name>
+			<description lang="und">Which of the following statements about 
+the Accessibility for Ontarians with Disabilities Act, 2005 is false?</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6Igp5NUGgW0/6ByqSMRQfBN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which of the following statements about 
+the Accessibility for Ontarians with Disabilities Act, 2005 is false?</name>
+			<description lang="und">Which of the following statements about 
+the Accessibility for Ontarians with Disabilities Act, 2005 is false?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6GyxuIK5dee</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5tZXTW2YpUm</id>
+					<description lang="und">Accessibility standards apply to private businesses and not-for-profit organizations, as well as designated public sector organizations across Ontario.</description>
+				</component>
+				<component>
+					<id>choice_6GyxuIK5dee</id>
+					<description lang="und">Only physical disabilities are included in the definition of “disability” under the Act.</description>
+				</component>
+				<component>
+					<id>choice_6nHEtll1pEe</id>
+					<description lang="und">The accessibility standards are the legal requirements that organizations in Ontario must follow to become more accessible to people with disabilities.</description>
+				</component>
+				<component>
+					<id>choice_6ajxZOA0aHw</id>
+					<description lang="und">The goal of the Act is to make Ontario accessible for people with disabilities by 2025.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6Hl0R2dmBRK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What should you do if you are unsure if a customer with a disability needs help?</name>
+			<description lang="und">What should you do if you are unsure if a customer with a disability needs help?</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6Hl0R2dmBRK/5uKS6r4vSaR" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What should you do if you are unsure if a customer with a disability needs help?</name>
+			<description lang="und">What should you do if you are unsure if a customer with a disability needs help?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5rxQWTROT5w</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_69rGSFqjqU9</id>
+					<description lang="und">Go ahead and help them. If they don’t want help, they’ll say so.</description>
+				</component>
+				<component>
+					<id>choice_66bGpwLBRvy</id>
+					<description lang="und">Don’t attend to them until you have time for them. Serve the easiest customers first.</description>
+				</component>
+				<component>
+					<id>choice_60W5VjnTFxs</id>
+					<description lang="und">Always serve a customer with a disability away from other customers.</description>
+				</component>
+				<component>
+					<id>choice_5ySYklv0kK9</id>
+					<description lang="und">Wait and see if they really are a customer. Maybe they’ll change their mind and go someplace else.</description>
+				</component>
+				<component>
+					<id>choice_5rxQWTROT5w</id>
+					<description lang="und">Ask, “May I help you?”</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5aFGxMeZrkF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The AODA standards apply to:</name>
+			<description lang="und">The AODA standards apply to:</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5aFGxMeZrkF/5VfxCAAT5pY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">The AODA standards apply to:</name>
+			<description lang="und">The AODA standards apply to:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_66Z3zcRKMPc</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5UpWHyqd6Fm</id>
+					<description lang="und">All organizations (public, private, and not-for-profit) with 100 or more employees in Ontario.</description>
+				</component>
+				<component>
+					<id>choice_66Z3zcRKMPc</id>
+					<description lang="und">All organizations (public, private, and not-for-profit) with one or more employees in Ontario.</description>
+				</component>
+				<component>
+					<id>choice_6MlE71GkAsM</id>
+					<description lang="und">Only organizations that employ people with disabilities.</description>
+				</component>
+				<component>
+					<id>choice_6bozDhDCVti</id>
+					<description lang="und">Only organizations that either employ or serve people with disabilities.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5m4gFMjZNJC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which of the following is a requirement of 
+the Customer Service Standard? Choose the best response.</name>
+			<description lang="und">Which of the following is a requirement of 
+the Customer Service Standard? Choose the best response.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5m4gFMjZNJC/6n979TFz1Ro" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which of the following is a requirement of 
+the Customer Service Standard? Choose the best response.</name>
+			<description lang="und">Which of the following is a requirement of 
+the Customer Service Standard? Choose the best response.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5WKsILpN80y</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5wwUUIhhBKv</id>
+					<description lang="und">Set up policies on providing accessible customer service to people with disabilities.</description>
+				</component>
+				<component>
+					<id>choice_61sOe85DQyf</id>
+					<description lang="und">Provide accessible customer service training to all employees and volunteers, anyone involved in developing your organization’s policies, and anyone who provides goods, services or facilities to customers on your organization’s behalf.</description>
+				</component>
+				<component>
+					<id>choice_5teNTnQNdvk</id>
+					<description lang="und">Have a process for receiving and responding to feedback about the way your organization provides customer service to people with disabilities, including what action will be taken if a complaint is received.</description>
+				</component>
+				<component>
+					<id>choice_5WKsILpN80y</id>
+					<description lang="und">All of the above.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6qUmcdOj0YB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The goal of the Ontario Human Rights Code 
+(the Code) is to:</name>
+			<description lang="und">The goal of the Ontario Human Rights Code 
+(the Code) is to:</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6qUmcdOj0YB/6O0teBs7ZTA" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">The goal of the Ontario Human Rights Code 
+(the Code) is to:</name>
+			<description lang="und">The goal of the Ontario Human Rights Code 
+(the Code) is to:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5XZ0Cr4waWu</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5at7J61StVT</id>
+					<description lang="und">A. Provide for equal rights, to create a climate of respect where everyone feels part of the community and can contribute fully.</description>
+				</component>
+				<component>
+					<id>choice_6pUkn7vf1Ba</id>
+					<description lang="und">B. Ensure that people with disabilities are free from discrimination where they work, live and receive services, and that their needs are accommodated.</description>
+				</component>
+				<component>
+					<id>choice_5gOqyz7YoRd</id>
+					<description lang="und">C. Ensure that employers, service providers, and housing providers are disciplined if they do not accommodate people with disabilities.</description>
+				</component>
+				<component>
+					<id>choice_5XZ0Cr4waWu</id>
+					<description lang="und">A and B </description>
+				</component>
+				<component>
+					<id>choice_5eDXb28wtFe</id>
+					<description lang="und">All of the above</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5emde694EgE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Code and the AODA work together in 
+the following ways:</name>
+			<description lang="und">The Code and the AODA work together in 
+the following ways:</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5emde694EgE/5a47H3dzqq8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">The Code and the AODA work together in 
+the following ways:</name>
+			<description lang="und">The Code and the AODA work together in 
+the following ways:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6PxrxZ0l9JX</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6K01TkAk3Dw</id>
+					<description lang="und">A. They both cover federally-regulated organizations like banks and airlines</description>
+				</component>
+				<component>
+					<id>choice_6S5M3Snl3GS</id>
+					<description lang="und">B. They both promote equality and accessibility</description>
+				</component>
+				<component>
+					<id>choice_6iWMqOWdIr5</id>
+					<description lang="und">C. They both use the same definition of disability</description>
+				</component>
+				<component>
+					<id>choice_5mBS5YxXwOf</id>
+					<description lang="und">D. They are both provincial laws</description>
+				</component>
+				<component>
+					<id>choice_6PxrxZ0l9JX</id>
+					<description lang="und">B, C and D</description>
+				</component>
+				<component>
+					<id>choice_5fa43ZINokR</id>
+					<description lang="und">All of the above</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6QSAbRPJvgE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">In which situations below would an 
+employer be required to accommodate an employee?</name>
+			<description lang="und">In which situations below would an 
+employer be required to accommodate an employee?</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6QSAbRPJvgE/60OmJQnOEOM" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">In which situations below would an 
+employer be required to accommodate an employee?</name>
+			<description lang="und">In which situations below would an 
+employer be required to accommodate an employee?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5oA3YHg2ufy</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6Hd1BNLNSux</id>
+					<description lang="und">A. An employee with a learning disability requires certain software installed on his computer.</description>
+				</component>
+				<component>
+					<id>choice_5hg0aMGskx5</id>
+					<description lang="und">B. An employee with a physical disability requests flexible work hours to accommodate the para-transit bus schedule.</description>
+				</component>
+				<component>
+					<id>choice_69Rn6hrmNVl</id>
+					<description lang="und">C. An employee with low vision needs his work documents available electronically, or in large print.</description>
+				</component>
+				<component>
+					<id>choice_6XN8AE8PPwO</id>
+					<description lang="und">B and C</description>
+				</component>
+				<component>
+					<id>choice_5oA3YHg2ufy</id>
+					<description lang="und">All of the above</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/63ONcOSit5b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Undue hardship is the legal limit of the duty 
+to accommodate. It refers to situations where severe negative effects outweigh the benefit of providing accommodation. What are the three factors used to determine undue hardship?</name>
+			<description lang="und">Undue hardship is the legal limit of the duty 
+to accommodate. It refers to situations where severe negative effects outweigh the benefit of providing accommodation. What are the three factors used to determine undue hardship?</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/63ONcOSit5b/5eBnY9AzVum" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Undue hardship is the legal limit of the duty 
+to accommodate. It refers to situations where severe negative effects outweigh the benefit of providing accommodation. What are the three factors used to determine undue hardship?</name>
+			<description lang="und">Undue hardship is the legal limit of the duty 
+to accommodate. It refers to situations where severe negative effects outweigh the benefit of providing accommodation. What are the three factors used to determine undue hardship?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_64SY9B1G0kn</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6e2EONRzSO2</id>
+					<description lang="und">Cost, size of the organization and health and safety</description>
+				</component>
+				<component>
+					<id>choice_64SY9B1G0kn</id>
+					<description lang="und">Cost, external funding sources (such as grants), and health and safety</description>
+				</component>
+				<component>
+					<id>choice_6eeRQD0KM19</id>
+					<description lang="und">Cost, opinions of staff members and the organization’s policies</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6JSkT59HvWg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">In the Code, disabilities can include 
+(check all that apply):</name>
+			<description lang="und">In the Code, disabilities can include 
+(check all that apply):</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6JSkT59HvWg/6FrUa1TrNai" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">In the Code, disabilities can include 
+(check all that apply):</name>
+			<description lang="und">In the Code, disabilities can include 
+(check all that apply):</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5kfk0XCZfKV</correctResponsePattern>
+				<correctResponsePattern>choice_6Wsowj2AefZ</correctResponsePattern>
+				<correctResponsePattern>choice_5ztp231NhNI</correctResponsePattern>
+				<correctResponsePattern>choice_6VC03bUL80R</correctResponsePattern>
+				<correctResponsePattern>choice_6VxeAOw3xOB</correctResponsePattern>
+				<correctResponsePattern>choice_5Vkqto9A2BM</correctResponsePattern>
+				<correctResponsePattern>choice_6kArWTvknCi</correctResponsePattern>
+				<correctResponsePattern>choice_5sCM4tIIn33</correctResponsePattern>
+				<correctResponsePattern>choice_6YRLH2umkDB</correctResponsePattern>
+				<correctResponsePattern>choice_6d9aGHzfkWV</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5kfk0XCZfKV</id>
+					<description lang="und">Environmental sensitivities</description>
+				</component>
+				<component>
+					<id>choice_6Wsowj2AefZ</id>
+					<description lang="und">Epilepsy</description>
+				</component>
+				<component>
+					<id>choice_5ztp231NhNI</id>
+					<description lang="und">Workplace injuries</description>
+				</component>
+				<component>
+					<id>choice_6VC03bUL80R</id>
+					<description lang="und">Substance addictions</description>
+				</component>
+				<component>
+					<id>choice_6VxeAOw3xOB</id>
+					<description lang="und">Vision</description>
+				</component>
+				<component>
+					<id>choice_5Vkqto9A2BM</id>
+					<description lang="und">Hearing</description>
+				</component>
+				<component>
+					<id>choice_6kArWTvknCi</id>
+					<description lang="und">Learning disabilities</description>
+				</component>
+				<component>
+					<id>choice_5sCM4tIIn33</id>
+					<description lang="und">Cognitive or intellectual development</description>
+				</component>
+				<component>
+					<id>choice_6YRLH2umkDB</id>
+					<description lang="und">Mental health</description>
+				</component>
+				<component>
+					<id>choice_6d9aGHzfkWV</id>
+					<description lang="und">Physical limitations</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6W6eg3uuZYt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">When a person requests an accommodation, 
+the employer, landlord or service provider must (check all that apply):</name>
+			<description lang="und">When a person requests an accommodation, 
+the employer, landlord or service provider must (check all that apply):</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6W6eg3uuZYt/6mXzJzB85jP" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">When a person requests an accommodation, 
+the employer, landlord or service provider must (check all that apply):</name>
+			<description lang="und">When a person requests an accommodation, 
+the employer, landlord or service provider must (check all that apply):</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6CjE1ExTNMM</correctResponsePattern>
+				<correctResponsePattern>choice_6lsGMJqbq47</correctResponsePattern>
+				<correctResponsePattern>choice_60LcRtgBeaH</correctResponsePattern>
+				<correctResponsePattern>choice_6LgOEL9EJVB</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6CjE1ExTNMM</id>
+					<description lang="und">Cover the costs of accommodations, such as any needed medical or other expert opinions or documents, to the point of undue hardship.</description>
+				</component>
+				<component>
+					<id>choice_6lsGMJqbq47</id>
+					<description lang="und">Actively seek appropriate accommodation solutions and ask for expert help if needed.</description>
+				</component>
+				<component>
+					<id>choice_60LcRtgBeaH</id>
+					<description lang="und">Respect the dignity and privacy of the person asking for accommodation, and make sure the accommodation process doesn’t lead to reprisals against that person.</description>
+				</component>
+				<component>
+					<id>choice_6LgOEL9EJVB</id>
+					<description lang="und">Act promptly, even if it means creating a temporary solution before a long-term one can be put in place.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/67vjp1S3fdQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">If you need an accommodation, 
+what should you do? Check all that apply.</name>
+			<description lang="und">If you need an accommodation, 
+what should you do? Check all that apply.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/67vjp1S3fdQ/6HPx90ZRVcj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">If you need an accommodation, 
+what should you do? Check all that apply.</name>
+			<description lang="und">If you need an accommodation, 
+what should you do? Check all that apply.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_62AMCySNLw9</correctResponsePattern>
+				<correctResponsePattern>choice_6orguHOm0x6</correctResponsePattern>
+				<correctResponsePattern>choice_60FmlBbQSW2</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_62AMCySNLw9</id>
+					<description lang="und">Provide supporting information about your disability-related needs.</description>
+				</component>
+				<component>
+					<id>choice_6orguHOm0x6</id>
+					<description lang="und">Help identify possible solutions for accommodation.</description>
+				</component>
+				<component>
+					<id>choice_60FmlBbQSW2</id>
+					<description lang="und">Tell your employer, union, landlord or service provider about your disability-related needs.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6ox2wCoq7bZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Organizations can choose the same accommodation for people with same types of disabilities, so what works for one person will work for other people, too.</name>
+			<description lang="und">Organizations can choose the same accommodation for people with same types of disabilities, so what works for one person will work for other people, too.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6ox2wCoq7bZ/6nSP4l9Ibwu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Organizations can choose the same accommodation for people with same types of disabilities, so what works for one person will work for other people, too.</name>
+			<description lang="und">Organizations can choose the same accommodation for people with same types of disabilities, so what works for one person will work for other people, too.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6cEmJX0xLWD</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6DR6V4XHpNA</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6cEmJX0xLWD</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5YUPOfmoUth" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Can individuals file accessibility complaints under the AODA?</name>
+			<description lang="und">Can individuals file accessibility complaints under the AODA?</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5YUPOfmoUth/66EGw8L6NxD" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Can individuals file accessibility complaints under the AODA?</name>
+			<description lang="und">Can individuals file accessibility complaints under the AODA?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6rFK7gFGWg0</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_64Y7tEMqcm2</id>
+					<description lang="und">Yes</description>
+				</component>
+				<component>
+					<id>choice_6rFK7gFGWg0</id>
+					<description lang="und">No</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5oGjFzo5tgj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">“Ableism” is a tendency to see people with disabilities as less worthy, underestimating their potential, or excluding them from decisions that affect them.</name>
+			<description lang="und">“Ableism” is a tendency to see people with disabilities as less worthy, underestimating their potential, or excluding them from decisions that affect them.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5oGjFzo5tgj/61WG58VCnhL" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">“Ableism” is a tendency to see people with disabilities as less worthy, underestimating their potential, or excluding them from decisions that affect them.</name>
+			<description lang="und">“Ableism” is a tendency to see people with disabilities as less worthy, underestimating their potential, or excluding them from decisions that affect them.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6fTYoa4idd6</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6fTYoa4idd6</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6GvsiUd2SDg</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6SHZ0TEO0hx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Since our focus is public service, customer service is the only accessibility standard that applies to Hamilton Public Library.</name>
+			<description lang="und">Since our focus is public service, customer service is the only accessibility standard that applies to Hamilton Public Library.</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/6SHZ0TEO0hx/5twbVFta6RH" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Since our focus is public service, customer service is the only accessibility standard that applies to Hamilton Public Library.</name>
+			<description lang="und">Since our focus is public service, customer service is the only accessibility standard that applies to Hamilton Public Library.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6Xs1bpqA7Km</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6X8TyPtlnSC</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6Xs1bpqA7Km</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5akMR6Rrb6V" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Find the best match for each law:</name>
+			<description lang="und">Find the best match for each law:</description>
+		</activity>
+		<activity id="http://5pRrRkZxXju_course_id/5akMR6Rrb6V/5WtDJBxrrwK" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Find the best match for each law:</name>
+			<description lang="und">Find the best match for each law:</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5V9mPjHyCLw[.]choice_6eSO29gOLVS</correctResponsePattern>
+				<correctResponsePattern>statement_6MtsMDhMGJR[.]choice_5Z6CNBtnWVn</correctResponsePattern>
+				<correctResponsePattern>statement_6h2GN1WX3uU[.]choice_6NPqT40Lex8</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5V9mPjHyCLw</id>
+					<description lang="und">The Ontario Human Rights Code</description>
+				</component>
+				<component>
+					<id>statement_6MtsMDhMGJR</id>
+					<description lang="und">Accessibility for Ontarians with Disabilities Act (AODA)</description>
+				</component>
+				<component>
+					<id>statement_6h2GN1WX3uU</id>
+					<description lang="und">Integrated Accessibility Standards Regulation (IASR)</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6eSO29gOLVS</id>
+					<description lang="und">Stipulates the legal Duty to accommodate the individual needs of people with disabilities</description>
+				</component>
+				<component>
+					<id>choice_5Z6CNBtnWVn</id>
+					<description lang="und">Sets accessibility standards that organizations must meet.</description>
+				</component>
+				<component>
+					<id>choice_6NPqT40Lex8</id>
+					<description lang="und">The part of the AODA that sets Information and Communications, Employment and other standards.</description>
+				</component>
+			</target>
+		</activity>
+	</activities>
+</tincan>
